@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/CMakeFiles/kaa_rsa_keygen"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/CMakeFiles/kaa_rsa_keygen.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/CMakeFiles/kaa_rsa_keygen-complete.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-install.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-mkdir.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-download.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-update.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-patch.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-configure.rule"
+		},
+		{
+			"file" : "/var/www/html/apps/my-c/build/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kaa_rsa_keygen"
+		],
+		"name" : "kaa_rsa_keygen"
+	}
+}
